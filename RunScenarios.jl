@@ -12,7 +12,7 @@ pygui(true)
 cellResVec = [100,150,200,250]
 riskPercentVec = [0.1, 0.2, 0.3, 0.4]
 
-for k=1:5
+for k=1:2
     # j=1
     # k=1
     fileNameStr = string("RandScenario_",string(k),".jld2")
