@@ -15,7 +15,7 @@ w_vec = [1.1, 1.2, 1.3, 1.4]
 for k=1:2
     # j=4
     # k=6
-    fileNameStr = string("RandScenario_",string(k),".jld2")
+    fileNameStr = string("Scenarios/RandScenario_",string(k),".jld2")
     println(" ")
     println(fileNameStr)
     data = FileIO.load(fileNameStr)

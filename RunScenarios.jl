@@ -15,7 +15,7 @@ riskPercentVec = [0.1, 0.2, 0.3, 0.4]
 for k=1:2
     # j=1
     # k=1
-    fileNameStr = string("RandScenario_",string(k),".jld2")
+    fileNameStr = string("Scenarios/RandScenario_",string(k),".jld2")
     println(" ")
     println(fileNameStr)
     data = FileIO.load(fileNameStr)
