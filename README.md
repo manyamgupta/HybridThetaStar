@@ -7,4 +7,4 @@ Output: minimum cost path satisfying curvature constraints and integral resource
 For further details refer to the paper:
 S. G. Manyam, D. W. Casbeer and C. Taylor, "Hybrid Theta∗: Motion Planning for Dubins Vehicles With Integral Constraints," in IEEE Robotics and Automation Letters, vol. 10, no. 2, pp. 1497-1504, Feb. 2025, doi: 10.1109/LRA.2024.3522786.
 
-Distribution Statement A: Approved for Public Release; Distribution is Unlimited. PA# AFRL-2024-6456
+Distribution Statement A: Approved for Public Release, PA# AFRL-2024-6456
